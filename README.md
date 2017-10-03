@@ -1,9 +1,9 @@
 # TestWebAPI
 
 Для создания Миграций используйте 
-*``` dotnet ef migrations add [migration name] ```
-*``` dotnet ef database update ```
+1.``` dotnet ef migrations add [migration name] ```
+2.``` dotnet ef database update ```
 
 Для запуска используйте
-*``` dotnet restore ```
-*``` dotnet run ```
+1.``` dotnet restore ```
+2.``` dotnet run ```
